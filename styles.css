@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+table {
+    table-layout: fixed;
+    width: 500px;
+}
+table td {
+    width: 75px;
+}
